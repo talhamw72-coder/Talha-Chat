@@ -1,0 +1,3 @@
+npx create-react-app talha-ui
+cd talha-ui
+npm start
